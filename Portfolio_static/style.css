@@ -1,0 +1,216 @@
+.logo {
+	font-family: monospace;
+	font-size: 20px;
+	padding-top: 20px;
+	padding-left: 40px;
+}
+ .nav {
+ 	margin: -30px;
+ 	padding-right: 40px;
+ 	text-align: right;
+ 	justify-content: space-between;
+ 	font-family: monospace;
+ }
+ .nav ul li {
+ 	list-style: none;
+ 	display: inline-block;
+ 	margin: 0 20px;
+ }
+ .nav ul li a {
+ 	text-decoration: none;
+ 	color: black;
+ 	text-transform: uppercase;
+ }
+ .nav ul li:nth-child(4) {
+ 	background-color: #754EF9;
+ 	padding: 7px 20px 7px 20px;
+ 	color: white;
+ 	border-radius: 10px;
+ }
+ body {
+ 	margin: 0;
+ }
+ .hero {
+ 	background-color: white;
+ 	text-align: center;
+ 	font-family: monospace;
+ }
+ .hero h1 {
+ 	padding-top: 75px;
+ 	margin: 0px;
+ }
+ .hero p {
+ 	font-size: 11.5px;
+ 	padding-bottom: 25px;
+ }
+ .hero img {
+ 	width: 250px;
+ 	height: auto;
+ 	padding-bottom: 75px;
+ }
+ .section {
+ 	background-color: #754EF9;
+ 	color: white;
+ 	text-align: center;
+ 	padding-top: 70px;
+ 	padding-bottom: 200px;
+ 	font-family: monospace;
+ }
+ .section p {
+ 	margin-right: 225px;
+ 	margin-left: 225px;
+ }
+ .skill {
+ 	display: flex;
+ 	justify-content: center;
+ 	text-align: center;
+ 	align-items: center;
+ 	font-family: monospace;
+ 	border: 0.5px lightgrey;
+ 	border-style: solid;
+ 	border-radius: 10px;
+ 	margin: -100px 250px 0px 250px;
+ 	background-color: white;
+ }
+ .skill	div {
+ 	border: 0.5px lightgrey;
+ 	border-style: solid;
+ 	border-radius: 10px;
+ 	height: 250px;
+ }
+.skill div p {
+	font-size: 8px;
+	padding-right: 50px;
+	padding-left: 50px;
+	padding-bottom: 30px;
+}
+.skill div img {
+	width: 50px;
+	height: auto;
+	padding-top: 25px;
+}
+.myprojects h2 {
+	justify-content: center;
+	text-align: center;
+	font-family: monospace;
+	margin-top: 50px;
+}
+.myprojects p {
+	justify-content: center;
+	text-align: center;
+	font-family: monospace;
+}
+.myprojects .durs {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	border: 0.5px white;
+	border-style: solid;
+	padding: 50px 200px 50px 200px;
+}
+.myprojects .neg {
+	background-color: #c9f5ff;
+	width: 300px;
+	height: 200px;
+	border: 1px;
+	border-color: lightgray;
+	border-style: solid;
+	border-radius: 10px;
+}
+.myprojects .hoyr {
+	background-color: #ffddf7;
+	width: 300px;
+	height: 200px;
+	border: 1px;
+	border-color: lightgray;
+	border-style: solid;
+	border-radius: 10px;
+}
+.myprojects .gurav {
+	background-color: #deffd6;
+	width: 300px;
+	height: 200px;
+	border: 1px;
+	border-color: lightgray;
+	border-style: solid;
+	border-radius: 10px;
+}
+.myprojects .duruv {
+	background-color: #ffcece;
+	width: 300px;
+	height: 200px;
+	border: 1px;
+	border-color: lightgray;
+	border-style: solid;
+	border-radius: 10px;
+}
+.myprojects .tav {
+	background-color: #ffecac;
+	width: 300px;
+	height: 200px;
+	border: 1px;
+	border-color: lightgray;
+	border-style: solid;
+	border-radius: 10px;
+}
+.myprojects .zurgaa {
+	background-color: #e0deff;
+	width: 300px;
+	height: 200px;
+	border: 1px;
+	border-color: lightgray;
+	border-style: solid;
+	border-radius: 10px;
+}
+.myprojects > .smj {
+	font-size: 11px;
+	justify-content: center;
+	font-family: monospace;
+	background-color: #754EF9;
+	color: white;
+	border-radius: 10px;
+	margin-left: 625px;
+	margin-right: 625px;
+	padding: 0.5px 5px 0.5px 5px;
+}
+.startaproject {
+	display: flex;
+ 	justify-content: center;
+ 	text-align: center;
+ 	align-items: center;
+ 	font-family: monospace;
+ 	border: 1px #141D39;
+ 	border-style: solid;
+ 	border-radius: 10px;
+ 	color: white;
+ 	background-color: #141D39;
+ 	margin: 50px 200px 0px 200px;
+ 	padding-top: 25px;
+ 	padding-bottom: 25px;
+ 	margin-bottom: -70px;
+ 	position: relative;
+}
+.startaproject > .first {
+	text-align: center;
+	margin-right: 25px;
+	margin-left: 35px;
+}
+.startaproject > .second {
+	text-align: center;
+	margin-right: 50px;
+	margin-left: 50pxpx;
+}
+.startaproject > .third { 
+	text-align: center;
+	border: 0.5px #754EF9;
+	border-style: solid;
+	border-radius: 10px;
+	margin-left: 25px;
+	margin-right: 35px;
+}
+footer .end {
+	background-color: #754EF9;
+	padding: 200px 100px 200px 100px;
+}
